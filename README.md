@@ -1,4 +1,7 @@
 # Hi there 👋 My name is Lijuan Xu, I am a Software Engineer!!
+<div>  
+<img src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47rgwhg39avz6m4710xeai66nx6nfb9z96vproanoz&rid=giphy.gif&ct=g" width="500px" height="400px" />
+</div>
 
 ### I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Python, and HTML/CSS. 
 ### I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression.
