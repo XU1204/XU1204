@@ -1,4 +1,9 @@
-# Hi there 👋 My name is Lijuan Xu, I am a Software Engineer!!
+# Hi there👋
+                                               My name is Lijuan Xu, I am a
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=800&size=25&color=FCE4A8&center=true&vCenter=true&width=435&lines=Fullstack+Software+Engineer" alt="Typing SVG" /></a>
+<p>
+
 
 <div align="center">
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47rgwhg39avz6m4710xeai66nx6nfb9z96vproanoz&rid=giphy.gif&ct=g"  /></a>
