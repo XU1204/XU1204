@@ -37,6 +37,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XU1204&theme=buefy-dark)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XU1204&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/lijuan-xu-96151b146/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/lijuan-xu" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
