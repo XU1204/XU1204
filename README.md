@@ -1,6 +1,8 @@
 # Hi there 👋 My name is Lijuan Xu, I am a Software Engineer!!
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47rgwhg39avz6m4710xeai66nx6nfb9z96vproanoz&rid=giphy.gif&ct=g" width="500px" height="400px" /></a>
+<div align="center">
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47rgwhg39avz6m4710xeai66nx6nfb9z96vproanoz&rid=giphy.gif&ct=g"  /></a>
+</div>
 
 ### I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Python, and HTML/CSS. 
 ### I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression.
@@ -26,7 +28,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=XU1204&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=XU1204&show_icons=true&theme=midnight-purple" width="400">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XU1204&theme=buefy-dark)](https://git.io/streak-stats)
 
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/lijuan-xu-96151b146/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
