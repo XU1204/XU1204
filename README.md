@@ -25,6 +25,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=XU1204&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/lijuan-xu-96151b146/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/lijuan-xu" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
